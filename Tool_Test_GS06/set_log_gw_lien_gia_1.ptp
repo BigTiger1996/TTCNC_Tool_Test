@@ -1,0 +1,108 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+COM3
+COM12
+9600
+2
+0
+4
+0
+0
+
+COMMDISPLAY
+0
+
+VERSATAP
+0
+
+CHANNELALIAS
+
+
+
+SEND
+0
+reset
+1F 2F 3F FF 05 FF 86 A8
+0
+5
+
+SEND
+1
+clear log
+1F 2F 3F FF 05 FE 00 2E 86
+0
+5
+
+SEND
+2
+Set log main
+1F 2F 3F FF 05 FE 01 EE 47
+0
+5
+
+SEND
+3
+Set log gateway (sub1)
+1F 2F 3F FF 05 FE 02 EF 07
+0
+5
+
+SEND
+4
+Set log EndDevice (sub2)
+1F 2F 3F FF 05 FE 04 ED 87
+0
+5
+
+SEND
+5
+Setlog measure (sub3)
+1F 2F 3F FF 05 FE 08 E8 87
+0
+5
+
+SEND
+6
+Set log raw data (sub4)
+1F 2F 3F FF 05 FE 10 E2 87
+0
+5
+
+SEND
+7
+Set log 5
+1F 2F 3F FF 05 FE 20 F6 87
+0
+5
+
+SEND
+8
+
+55 50 44 41 54 45 5F 46 57 28 34 36 29
+0
+5
+
+SEND
+9
+read version vi lora gateway
+05 20 25 00 00 00 98 08 FF FF
+0
+5
+
+SEND
+10
+read version vi lora device
+05 00 12 34 56 78 90 04 FF FF
+0
+5
+
+SEND
+11
+
+5B 30 30 32 35 38 39 30 30 30 33 34 30 5D 5B 44 65 76 69 63 65 5D 20 3E 3E 20 30 30 32 35 34 39 30 30 30 30 39 32 20 4F 6E 6C 69 6E 65
+0
+5
+

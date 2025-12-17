@@ -1,0 +1,108 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+COM3
+COM2
+9600
+2
+63
+4
+0
+0
+
+COMMDISPLAY
+0
+
+VERSATAP
+0
+
+CHANNELALIAS
+
+
+
+SEND
+0
+shake hands
+1F 2F 3F FF 01
+0
+5
+
+SEND
+1
+reset
+1F 2F 3F FF 05 FF 86 A8
+0
+5
+
+SEND
+2
+log main
+1F 2F 3F FF 05 FE 01 EE 47
+0
+5
+
+SEND
+3
+log 0,1
+1F 2F 3F FF 05 FE 03 2F C6
+0
+5
+
+SEND
+4
+log 0,3
+1F 2F 3F FF 05 FE 09 28 46
+0
+5
+
+SEND
+5
+log 0,4
+1F 2F 3F FF 05 FE 11 22 46
+0
+5
+
+SEND
+6
+none log
+1F 2F 3F FF 05 FE 00 2E 86
+0
+5
+
+SEND
+7
+Bootloader: log01
+23 45 6E 61 62 6C 65 4C 4F 47 30 31
+0
+5
+
+SEND
+8
+Bootloader: log02
+23 45 6E 61 62 6C 65 4C 4F 47 30 32
+0
+5
+
+SEND
+9
+Bootloader: no log
+23 44 69 73 61 62 6C 65 4C 4F 47
+0
+5
+
+SEND
+10
+Bootloader: reset MCU
+23 52 45 53 45 54
+0
+5
+
+SEND
+11
+
+1F 2F 3F FF 03 02 F5 4B 9E 51 82 EF C8 47 3B 80 E5 0C 38 C3 EF A3 77
+0
+5
+
