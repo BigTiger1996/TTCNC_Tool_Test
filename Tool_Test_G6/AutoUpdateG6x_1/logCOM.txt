@@ -1,0 +1,4151 @@
+
+18-12-2025 15:38:14 : UpdateLAN = 001111111100_0
+
+Time: 1
+18-12-2025 15:38:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:39:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:39:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:40:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:40:47 : FinishOK: 2/2
+
+Time: 2
+18-12-2025 15:40:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:41:44: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:42:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:43:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:43:30 : FinishOK: 4/4
+
+Time: 3
+18-12-2025 15:43:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:44:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:44:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:45:44: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:46:04 : FinishOK: 6/6
+
+Time: 4
+18-12-2025 15:46:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:47:00: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:47:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:48:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:48:36 : FinishOK: 8/8
+
+Time: 5
+18-12-2025 15:48:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:49:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:49:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:50:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:51:05 : FinishOK: 10/10
+
+Time: 6
+18-12-2025 15:51:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:52:00: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:52:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:53:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:53:37 : FinishOK: 12/12
+
+Time: 7
+18-12-2025 15:53:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:54:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:54:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:55:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:56:07 : FinishOK: 14/14
+
+Time: 8
+18-12-2025 15:56:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:57:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:57:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 15:58:18: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 15:58:38 : FinishOK: 16/16
+
+Time: 9
+18-12-2025 15:58:38 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 15:59:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 15:59:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:00:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:01:14 : FinishOK: 18/18
+
+Time: 10
+18-12-2025 16:01:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:02:08: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:02:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:03:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:03:43 : FinishOK: 20/20
+
+Time: 11
+18-12-2025 16:03:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:04:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:04:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:05:57: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:06:17 : FinishOK: 22/22
+
+Time: 12
+18-12-2025 16:06:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:07:13: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:07:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:08:28: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:08:48 : FinishOK: 24/24
+
+Time: 13
+18-12-2025 16:08:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:09:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:10:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:11:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:11:23 : FinishOK: 26/26
+
+Time: 14
+18-12-2025 16:11:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:12:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:12:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:13:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:13:55 : FinishOK: 28/28
+
+Time: 15
+18-12-2025 16:13:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:14:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:15:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:16:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:16:24 : FinishOK: 30/30
+
+Time: 16
+18-12-2025 16:16:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:17:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:17:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:18:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:18:59 : FinishOK: 32/32
+
+Time: 17
+18-12-2025 16:18:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:19:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:20:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:21:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:21:29 : FinishOK: 34/34
+
+Time: 18
+18-12-2025 16:21:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:22:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:22:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:23:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:23:59 : FinishOK: 36/36
+
+Time: 19
+18-12-2025 16:23:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:24:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:25:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:26:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:26:29 : FinishOK: 38/38
+
+Time: 20
+18-12-2025 16:26:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:27:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:27:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:28:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:28:58 : FinishOK: 40/40
+
+Time: 21
+18-12-2025 16:28:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:29:52: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:30:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:31:08: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:31:28 : FinishOK: 42/42
+
+Time: 22
+18-12-2025 16:31:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:32:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:32:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:33:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:33:57 : FinishOK: 44/44
+
+Time: 23
+18-12-2025 16:33:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:34:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:35:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:36:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:36:29 : FinishOK: 46/46
+
+Time: 24
+18-12-2025 16:36:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:37:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:37:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:38:40: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:39:00 : FinishOK: 48/48
+
+Time: 25
+18-12-2025 16:39:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:39:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:40:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:41:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:41:29 : FinishOK: 50/50
+
+Time: 26
+18-12-2025 16:41:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:42:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:42:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:43:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:43:59 : FinishOK: 52/52
+
+Time: 27
+18-12-2025 16:43:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:44:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:45:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:46:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:46:30 : FinishOK: 54/54
+
+Time: 28
+18-12-2025 16:46:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:47:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:47:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:48:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:49:01 : FinishOK: 56/56
+
+Time: 29
+18-12-2025 16:49:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:49:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:50:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:51:11: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:51:31 : FinishOK: 58/58
+
+Time: 30
+18-12-2025 16:51:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:52:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:52:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:53:44: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:54:04 : FinishOK: 60/60
+
+Time: 31
+18-12-2025 16:54:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:54:58: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:55:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:56:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:56:33 : FinishOK: 62/62
+
+Time: 32
+18-12-2025 16:56:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 16:57:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 16:57:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 16:58:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 16:59:09 : FinishOK: 64/64
+
+Time: 33
+18-12-2025 16:59:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:00:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:00:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:01:19: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:01:39 : FinishOK: 66/66
+
+Time: 34
+18-12-2025 17:01:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:02:33: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:02:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:03:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:04:10 : FinishOK: 68/68
+
+Time: 35
+18-12-2025 17:04:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:05:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:05:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:06:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:06:40 : FinishOK: 70/70
+
+Time: 36
+18-12-2025 17:06:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:07:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:07:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:08:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:09:10 : FinishOK: 72/72
+
+Time: 37
+18-12-2025 17:09:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:10:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:10:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:11:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:11:40 : FinishOK: 74/74
+
+Time: 38
+18-12-2025 17:11:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:12:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:12:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:13:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:14:11 : FinishOK: 76/76
+
+Time: 39
+18-12-2025 17:14:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:15:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:15:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:16:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:16:43 : FinishOK: 78/78
+
+Time: 40
+18-12-2025 17:16:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:17:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:17:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:18:52: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:19:12 : FinishOK: 80/80
+
+Time: 41
+18-12-2025 17:19:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:20:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:20:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:21:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:21:41 : FinishOK: 82/82
+
+Time: 42
+18-12-2025 17:21:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:22:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:22:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:23:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:24:10 : FinishOK: 84/84
+
+Time: 43
+18-12-2025 17:24:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:25:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:25:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:26:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:26:40 : FinishOK: 86/86
+
+Time: 44
+18-12-2025 17:26:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:27:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:27:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:28:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:29:16 : FinishOK: 88/88
+
+Time: 45
+18-12-2025 17:29:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:30:11: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:30:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:31:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:31:47 : FinishOK: 90/90
+
+Time: 46
+18-12-2025 17:31:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:32:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:33:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:33:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:34:16 : FinishOK: 92/92
+
+Time: 47
+18-12-2025 17:34:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:35:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:35:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:36:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:36:44 : FinishOK: 94/94
+
+Time: 48
+18-12-2025 17:36:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:37:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:37:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:38:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:39:13 : FinishOK: 96/96
+
+Time: 49
+18-12-2025 17:39:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:40:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:40:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:41:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:41:43 : FinishOK: 98/98
+
+Time: 50
+18-12-2025 17:41:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:42:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:42:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:43:52: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:44:12 : FinishOK: 100/100
+
+Time: 51
+18-12-2025 17:44:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:45:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:45:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:46:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:46:40 : FinishOK: 102/102
+
+Time: 52
+18-12-2025 17:46:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:47:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:47:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:48:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:49:11 : FinishOK: 104/104
+
+Time: 53
+18-12-2025 17:49:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:50:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:50:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:51:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:51:44 : FinishOK: 106/106
+
+Time: 54
+18-12-2025 17:51:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:52:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:52:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:53:52: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:54:12 : FinishOK: 108/108
+
+Time: 55
+18-12-2025 17:54:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:55:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:55:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:56:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:56:41 : FinishOK: 110/110
+
+Time: 56
+18-12-2025 17:56:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 17:57:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 17:57:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 17:58:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 17:59:10 : FinishOK: 112/112
+
+Time: 57
+18-12-2025 17:59:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:00:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:00:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:01:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:01:40 : FinishOK: 114/114
+
+Time: 58
+18-12-2025 18:01:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:02:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:02:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:03:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:04:13 : FinishOK: 116/116
+
+Time: 59
+18-12-2025 18:04:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:05:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:05:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:06:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:06:45 : FinishOK: 118/118
+
+Time: 60
+18-12-2025 18:06:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:07:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:07:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:08:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:09:14 : FinishOK: 120/120
+
+Time: 61
+18-12-2025 18:09:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:10:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:10:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:11:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:11:45 : FinishOK: 122/122
+
+Time: 62
+18-12-2025 18:11:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:12:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:13:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:13:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:14:16 : FinishOK: 124/124
+
+Time: 63
+18-12-2025 18:14:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:15:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:15:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:16:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:16:45 : FinishOK: 126/126
+
+Time: 64
+18-12-2025 18:16:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:17:40: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:18:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:18:58: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:19:18 : FinishOK: 128/128
+
+Time: 65
+18-12-2025 18:19:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:20:13: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:20:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:21:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:21:47 : FinishOK: 130/130
+
+Time: 66
+18-12-2025 18:21:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:22:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:23:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:23:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:24:15 : FinishOK: 132/132
+
+Time: 67
+18-12-2025 18:24:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:25:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:25:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:26:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:26:44 : FinishOK: 134/134
+
+Time: 68
+18-12-2025 18:26:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:27:40: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:28:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:28:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:29:14 : FinishOK: 136/136
+
+Time: 69
+18-12-2025 18:29:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:30:08: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:30:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:31:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:31:52 : FinishOK: 138/138
+
+Time: 70
+18-12-2025 18:31:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:32:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:33:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:34:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:34:21 : FinishOK: 140/140
+
+Time: 71
+18-12-2025 18:34:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:35:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:35:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:36:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:36:50 : FinishOK: 142/142
+
+Time: 72
+18-12-2025 18:36:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:37:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:38:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:39:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:39:21 : FinishOK: 144/144
+
+Time: 73
+18-12-2025 18:39:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:40:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:40:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:41:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:41:51 : FinishOK: 146/146
+
+Time: 74
+18-12-2025 18:41:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:42:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:43:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:44:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:44:27 : FinishOK: 148/148
+
+Time: 75
+18-12-2025 18:44:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:45:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:45:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:46:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:46:57 : FinishOK: 150/150
+
+Time: 76
+18-12-2025 18:46:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:47:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:48:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:49:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:49:25 : FinishOK: 152/152
+
+Time: 77
+18-12-2025 18:49:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:50:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:50:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:51:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:52:02 : FinishOK: 154/154
+
+Time: 78
+18-12-2025 18:52:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:52:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:53:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:54:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:54:30 : FinishOK: 156/156
+
+Time: 79
+18-12-2025 18:54:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:55:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:55:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:56:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:57:01 : FinishOK: 158/158
+
+Time: 80
+18-12-2025 18:57:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 18:57:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 18:58:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 18:59:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 18:59:30 : FinishOK: 160/160
+
+Time: 81
+18-12-2025 18:59:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:00:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:00:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:01:40: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:02:00 : FinishOK: 162/162
+
+Time: 82
+18-12-2025 19:02:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:02:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:03:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:04:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:04:29 : FinishOK: 164/164
+
+Time: 83
+18-12-2025 19:04:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:05:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:05:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:06:43: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:07:03 : FinishOK: 166/166
+
+Time: 84
+18-12-2025 19:07:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:07:58: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:08:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:09:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:09:35 : FinishOK: 168/168
+
+Time: 85
+18-12-2025 19:09:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:10:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:10:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:11:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:12:06 : FinishOK: 170/170
+
+Time: 86
+18-12-2025 19:12:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:13:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:13:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:14:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:14:41 : FinishOK: 172/172
+
+Time: 87
+18-12-2025 19:14:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:15:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:15:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:16:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:17:16 : FinishOK: 174/174
+
+Time: 88
+18-12-2025 19:17:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:18:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:18:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:19:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:19:45 : FinishOK: 176/176
+
+Time: 89
+18-12-2025 19:19:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:20:40: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:21:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:21:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:22:15 : FinishOK: 178/178
+
+Time: 90
+18-12-2025 19:22:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:23:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:23:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:24:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:24:45 : FinishOK: 180/180
+
+Time: 91
+18-12-2025 19:24:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:25:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:25:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:26:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:27:13 : FinishOK: 182/182
+
+Time: 92
+18-12-2025 19:27:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:28:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:28:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:29:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:29:45 : FinishOK: 184/184
+
+Time: 93
+18-12-2025 19:29:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:30:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:31:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:32:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:32:21 : FinishOK: 186/186
+
+Time: 94
+18-12-2025 19:32:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:33:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:33:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:34:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:35:09 : FinishOK: 188/188
+
+Time: 95
+18-12-2025 19:35:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:36:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:36:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:37:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:37:37 : FinishOK: 190/190
+
+Time: 96
+18-12-2025 19:37:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:38:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:38:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:39:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:40:09 : FinishOK: 192/192
+
+Time: 97
+18-12-2025 19:40:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:41:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:41:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:42:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:42:37 : FinishOK: 194/194
+
+Time: 98
+18-12-2025 19:42:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:43:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:43:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:44:48: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:45:08 : FinishOK: 196/196
+
+Time: 99
+18-12-2025 19:45:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:46:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:46:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:47:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:47:37 : FinishOK: 198/198
+
+Time: 100
+18-12-2025 19:47:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:48:33: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:48:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:49:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:50:07 : FinishOK: 200/200
+
+Time: 101
+18-12-2025 19:50:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:51:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:51:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:52:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:52:37 : FinishOK: 202/202
+
+Time: 102
+18-12-2025 19:52:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:53:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:53:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:54:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:55:12 : FinishOK: 204/204
+
+Time: 103
+18-12-2025 19:55:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:56:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:56:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:57:22: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 19:57:42 : FinishOK: 206/206
+
+Time: 104
+18-12-2025 19:57:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 19:58:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 19:58:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 19:59:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:00:13 : FinishOK: 208/208
+
+Time: 105
+18-12-2025 20:00:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:01:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:01:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:02:22: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:02:42 : FinishOK: 210/210
+
+Time: 106
+18-12-2025 20:02:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:03:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:03:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:04:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:05:11 : FinishOK: 212/212
+
+Time: 107
+18-12-2025 20:05:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:06:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:06:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:07:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:07:41 : FinishOK: 214/214
+
+Time: 108
+18-12-2025 20:07:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:08:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:08:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:09:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:10:10 : FinishOK: 216/216
+
+Time: 109
+18-12-2025 20:10:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:11:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:11:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:12:19: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:12:39 : FinishOK: 218/218
+
+Time: 110
+18-12-2025 20:12:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:13:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:13:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:14:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:15:11 : FinishOK: 220/220
+
+Time: 111
+18-12-2025 20:15:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:16:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:16:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:17:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:17:40 : FinishOK: 222/222
+
+Time: 112
+18-12-2025 20:17:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:18:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:18:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:19:48: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:20:08 : FinishOK: 224/224
+
+Time: 113
+18-12-2025 20:20:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:21:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:21:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:22:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:22:44 : FinishOK: 226/226
+
+Time: 114
+18-12-2025 20:22:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:23:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:24:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:24:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:25:14 : FinishOK: 228/228
+
+Time: 115
+18-12-2025 20:25:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:26:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:26:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:27:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:27:44 : FinishOK: 230/230
+
+Time: 116
+18-12-2025 20:27:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:28:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:29:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:29:59: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:30:19 : FinishOK: 232/232
+
+Time: 117
+18-12-2025 20:30:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:31:14: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:31:34 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:32:29: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:32:49 : FinishOK: 234/234
+
+Time: 118
+18-12-2025 20:32:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:33:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:34:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:35:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:35:25 : FinishOK: 236/236
+
+Time: 119
+18-12-2025 20:35:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:36:19: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:36:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:37:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:37:55 : FinishOK: 238/238
+
+Time: 120
+18-12-2025 20:37:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:38:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:39:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:40:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:40:25 : FinishOK: 240/240
+
+Time: 121
+18-12-2025 20:40:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:41:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:41:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:42:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:42:56 : FinishOK: 242/242
+
+Time: 122
+18-12-2025 20:42:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:43:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:44:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:45:11: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:45:31 : FinishOK: 244/244
+
+Time: 123
+18-12-2025 20:45:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:46:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:46:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:47:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:48:01 : FinishOK: 246/246
+
+Time: 124
+18-12-2025 20:48:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:48:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:49:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:50:11: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:50:31 : FinishOK: 248/248
+
+Time: 125
+18-12-2025 20:50:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:51:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:51:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:52:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:53:01 : FinishOK: 250/250
+
+Time: 126
+18-12-2025 20:53:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:53:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:54:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:55:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:55:30 : FinishOK: 252/252
+
+Time: 127
+18-12-2025 20:55:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:56:28: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:56:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 20:57:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 20:58:09 : FinishOK: 254/254
+
+Time: 128
+18-12-2025 20:58:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 20:59:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 20:59:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:00:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:00:37 : FinishOK: 256/256
+
+Time: 129
+18-12-2025 21:00:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:01:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:01:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:02:52: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:03:12 : FinishOK: 258/258
+
+Time: 130
+18-12-2025 21:03:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:04:08: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:04:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:05:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:05:43 : FinishOK: 260/260
+
+Time: 131
+18-12-2025 21:05:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:06:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:06:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:07:52: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:08:12 : FinishOK: 262/262
+
+Time: 132
+18-12-2025 21:08:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:09:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:09:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:10:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:10:41 : FinishOK: 264/264
+
+Time: 133
+18-12-2025 21:10:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:11:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:11:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:12:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:13:15 : FinishOK: 266/266
+
+Time: 134
+18-12-2025 21:13:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:14:11: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:14:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:15:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:15:46 : FinishOK: 268/268
+
+Time: 135
+18-12-2025 21:15:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:16:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:17:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:17:57: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:18:17 : FinishOK: 270/270
+
+Time: 136
+18-12-2025 21:18:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:19:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:19:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:20:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:20:47 : FinishOK: 272/272
+
+Time: 137
+18-12-2025 21:20:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:21:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:22:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:22:59: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:23:19 : FinishOK: 274/274
+
+Time: 138
+18-12-2025 21:23:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:24:14: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:24:34 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:25:28: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:25:48 : FinishOK: 276/276
+
+Time: 139
+18-12-2025 21:25:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:26:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:27:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:27:58: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:28:18 : FinishOK: 278/278
+
+Time: 140
+18-12-2025 21:28:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:29:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:29:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:30:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:30:47 : FinishOK: 280/280
+
+Time: 141
+18-12-2025 21:30:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:31:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:32:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:32:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:33:16 : FinishOK: 282/282
+
+Time: 142
+18-12-2025 21:33:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:34:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:34:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:35:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:35:52 : FinishOK: 284/284
+
+Time: 143
+18-12-2025 21:35:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:36:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:37:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:38:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:38:21 : FinishOK: 286/286
+
+Time: 144
+18-12-2025 21:38:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:39:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:39:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:40:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:40:52 : FinishOK: 288/288
+
+Time: 145
+18-12-2025 21:40:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:41:48: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:42:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:43:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:43:24 : FinishOK: 290/290
+
+Time: 146
+18-12-2025 21:43:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:44:22: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:44:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:45:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:45:57 : FinishOK: 292/292
+
+Time: 147
+18-12-2025 21:45:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:46:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:47:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:48:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:48:27 : FinishOK: 294/294
+
+Time: 148
+18-12-2025 21:48:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:49:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:49:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:50:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:50:56 : FinishOK: 296/296
+
+Time: 149
+18-12-2025 21:50:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:51:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:52:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:53:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:53:32 : FinishOK: 298/298
+
+Time: 150
+18-12-2025 21:53:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:54:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:54:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:55:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:56:07 : FinishOK: 300/300
+
+Time: 151
+18-12-2025 21:56:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:57:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:57:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 21:58:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 21:58:36 : FinishOK: 302/302
+
+Time: 152
+18-12-2025 21:58:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 21:59:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 21:59:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:00:44: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:01:04 : FinishOK: 304/304
+
+Time: 153
+18-12-2025 22:01:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:01:59: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:02:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:03:13: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:03:33 : FinishOK: 306/306
+
+Time: 154
+18-12-2025 22:03:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:04:29: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:04:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:05:44: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:06:04 : FinishOK: 308/308
+
+Time: 155
+18-12-2025 22:06:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:06:58: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:07:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:08:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:08:35 : FinishOK: 310/310
+
+Time: 156
+18-12-2025 22:08:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:09:29: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:09:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:10:43: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:11:03 : FinishOK: 312/312
+
+Time: 157
+18-12-2025 22:11:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:11:57: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:12:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:13:13: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:13:33 : FinishOK: 314/314
+
+Time: 158
+18-12-2025 22:13:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:14:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:14:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:15:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:16:02 : FinishOK: 316/316
+
+Time: 159
+18-12-2025 22:16:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:16:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:17:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:18:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:18:30 : FinishOK: 318/318
+
+Time: 160
+18-12-2025 22:18:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:19:27: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:19:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:20:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:21:07 : FinishOK: 320/320
+
+Time: 161
+18-12-2025 22:21:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:22:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:22:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:23:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:23:37 : FinishOK: 322/322
+
+Time: 162
+18-12-2025 22:23:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:24:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:24:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:25:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:26:06 : FinishOK: 324/324
+
+Time: 163
+18-12-2025 22:26:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:27:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:27:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:28:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:28:35 : FinishOK: 326/326
+
+Time: 164
+18-12-2025 22:28:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:29:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:29:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:30:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:31:05 : FinishOK: 328/328
+
+Time: 165
+18-12-2025 22:31:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:32:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:32:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:33:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:33:37 : FinishOK: 330/330
+
+Time: 166
+18-12-2025 22:33:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:34:33: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:34:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:35:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:36:07 : FinishOK: 332/332
+
+Time: 167
+18-12-2025 22:36:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:37:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:37:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:38:18: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:38:38 : FinishOK: 334/334
+
+Time: 168
+18-12-2025 22:38:38 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:39:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:39:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:40:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:41:06 : FinishOK: 336/336
+
+Time: 169
+18-12-2025 22:41:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:42:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:42:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:43:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:43:36 : FinishOK: 338/338
+
+Time: 170
+18-12-2025 22:43:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:44:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:44:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:45:57: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:46:17 : FinishOK: 340/340
+
+Time: 171
+18-12-2025 22:46:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:47:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:47:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:48:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:48:50 : FinishOK: 342/342
+
+Time: 172
+18-12-2025 22:48:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:49:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:50:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:51:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:51:22 : FinishOK: 344/344
+
+Time: 173
+18-12-2025 22:51:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:52:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:52:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:53:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:53:52 : FinishOK: 346/346
+
+Time: 174
+18-12-2025 22:53:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:54:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:55:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:56:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:56:21 : FinishOK: 348/348
+
+Time: 175
+18-12-2025 22:56:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:57:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 22:57:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 22:58:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 22:58:52 : FinishOK: 350/350
+
+Time: 176
+18-12-2025 22:58:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 22:59:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:00:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:01:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:01:21 : FinishOK: 352/352
+
+Time: 177
+18-12-2025 23:01:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:02:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:02:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:03:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:03:50 : FinishOK: 354/354
+
+Time: 178
+18-12-2025 23:03:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:04:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:05:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:06:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:06:22 : FinishOK: 356/356
+
+Time: 179
+18-12-2025 23:06:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:07:18: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:07:38 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:08:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:08:52 : FinishOK: 358/358
+
+Time: 180
+18-12-2025 23:08:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:09:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:10:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:11:00: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:11:20 : FinishOK: 360/360
+
+Time: 181
+18-12-2025 23:11:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:12:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:12:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:13:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:13:51 : FinishOK: 362/362
+
+Time: 182
+18-12-2025 23:13:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:14:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:15:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:16:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:16:21 : FinishOK: 364/364
+
+Time: 183
+18-12-2025 23:16:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:17:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:17:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:18:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:18:51 : FinishOK: 366/366
+
+Time: 184
+18-12-2025 23:18:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:19:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:20:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:21:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:21:21 : FinishOK: 368/368
+
+Time: 185
+18-12-2025 23:21:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:22:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:22:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:23:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:23:55 : FinishOK: 370/370
+
+Time: 186
+18-12-2025 23:23:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:24:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:25:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:26:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:26:25 : FinishOK: 372/372
+
+Time: 187
+18-12-2025 23:26:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:27:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:27:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:28:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:28:54 : FinishOK: 374/374
+
+Time: 188
+18-12-2025 23:28:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:29:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:30:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:31:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:31:27 : FinishOK: 376/376
+
+Time: 189
+18-12-2025 23:31:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:32:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:32:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:33:41: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:34:01 : FinishOK: 378/378
+
+Time: 190
+18-12-2025 23:34:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:34:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:35:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:36:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:36:30 : FinishOK: 380/380
+
+Time: 191
+18-12-2025 23:36:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:37:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:37:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:38:40: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:39:00 : FinishOK: 382/382
+
+Time: 192
+18-12-2025 23:39:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:39:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:40:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:41:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:41:29 : FinishOK: 384/384
+
+Time: 193
+18-12-2025 23:41:29 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:42:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:42:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:43:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:43:59 : FinishOK: 386/386
+
+Time: 194
+18-12-2025 23:43:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:45:00: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:45:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:46:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:46:36 : FinishOK: 388/388
+
+Time: 195
+18-12-2025 23:46:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:47:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:47:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:48:48: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:49:08 : FinishOK: 390/390
+
+Time: 196
+18-12-2025 23:49:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:50:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:50:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:51:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:51:37 : FinishOK: 392/392
+
+Time: 197
+18-12-2025 23:51:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:52:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:52:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:53:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:54:06 : FinishOK: 394/394
+
+Time: 198
+18-12-2025 23:54:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:55:00: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:55:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:56:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:56:35 : FinishOK: 396/396
+
+Time: 199
+18-12-2025 23:56:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+18-12-2025 23:57:29: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+18-12-2025 23:57:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+18-12-2025 23:58:49: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+18-12-2025 23:59:09 : FinishOK: 398/398
+
+Time: 200
+18-12-2025 23:59:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:00:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:00:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#0"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:01:19: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:01:39 : FinishOK: 400/400
+
+19-12-2025 00:02:10 : Update4G = 001111111100_1
+
+Time: 1
+19-12-2025 00:02:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 00:02:40 : Timeout: waitRecieveUpdate
+
+19-12-2025 00:03:00 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:04:09: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:04:30 : FinishOK: 1/1
+
+Time: 2
+19-12-2025 00:04:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:05:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:06:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:07:43: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:08:03 : FinishOK: 3/3
+
+Time: 3
+19-12-2025 00:08:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:09:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:09:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:11:18: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:11:38 : FinishOK: 5/5
+
+Time: 4
+19-12-2025 00:11:38 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:13:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:13:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:14:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:15:13 : FinishOK: 7/7
+
+Time: 5
+19-12-2025 00:15:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:16:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:16:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:18:28: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:18:48 : FinishOK: 9/9
+
+Time: 6
+19-12-2025 00:18:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:20:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:20:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:22:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:22:24 : FinishOK: 11/11
+
+Time: 7
+19-12-2025 00:22:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:23:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:24:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:25:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:25:58 : FinishOK: 13/13
+
+Time: 8
+19-12-2025 00:25:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:27:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:27:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:29:14: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:29:34 : FinishOK: 15/15
+
+Time: 9
+19-12-2025 00:29:34 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:31:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:31:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:32:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:33:07 : FinishOK: 17/17
+
+Time: 10
+19-12-2025 00:33:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:34:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:34:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:36:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:36:44 : FinishOK: 19/19
+
+Time: 11
+19-12-2025 00:36:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:38:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:38:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:39:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:40:16 : FinishOK: 21/21
+
+Time: 12
+19-12-2025 00:40:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:41:43: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:42:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:43:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:43:50 : FinishOK: 23/23
+
+Time: 13
+19-12-2025 00:43:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:45:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:45:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:47:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:47:24 : FinishOK: 25/25
+
+Time: 14
+19-12-2025 00:47:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 00:48:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 00:49:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:50:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:50:57 : FinishOK: 27/27
+
+Time: 15
+19-12-2025 00:50:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 00:51:28 : Timeout: waitRecieveUpdate
+
+19-12-2025 00:51:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:52:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:52:56 : FinishOK: 28/28
+
+Time: 16
+19-12-2025 00:52:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 00:53:26 : Timeout: waitRecieveUpdate
+
+19-12-2025 00:53:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:54:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:54:54 : FinishOK: 29/29
+
+Time: 17
+19-12-2025 00:54:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 00:55:24 : Timeout: waitRecieveUpdate
+
+19-12-2025 00:55:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:56:35: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:56:55 : FinishOK: 30/30
+
+Time: 18
+19-12-2025 00:56:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 00:57:25 : Timeout: waitRecieveUpdate
+
+19-12-2025 00:57:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 00:58:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 00:58:54 : FinishOK: 31/31
+
+Time: 19
+19-12-2025 00:58:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 00:59:24 : Timeout: waitRecieveUpdate
+
+19-12-2025 00:59:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:00:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:00:51 : FinishOK: 32/32
+
+Time: 20
+19-12-2025 01:00:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:01:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:01:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:03:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:03:21 : FinishOK: 33/33
+
+Time: 21
+19-12-2025 01:03:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:04:48: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:05:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:06:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:06:56 : FinishOK: 35/35
+
+Time: 22
+19-12-2025 01:06:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:08:24: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:08:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:10:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:10:32 : FinishOK: 37/37
+
+Time: 23
+19-12-2025 01:10:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:11:59: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:12:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:13:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:14:06 : FinishOK: 39/39
+
+Time: 24
+19-12-2025 01:14:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:15:33: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:15:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:17:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:17:43 : FinishOK: 41/41
+
+Time: 25
+19-12-2025 01:17:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:19:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:19:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:20:57: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:21:17 : FinishOK: 43/43
+
+Time: 26
+19-12-2025 01:21:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:22:46: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:23:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:24:33: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:24:53 : FinishOK: 45/45
+
+Time: 27
+19-12-2025 01:24:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:25:24 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:25:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:26:32: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:26:52 : FinishOK: 46/46
+
+Time: 28
+19-12-2025 01:26:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:27:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:27:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:28:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:28:51 : FinishOK: 47/47
+
+Time: 29
+19-12-2025 01:28:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:29:21 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:29:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:30:29: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:30:49 : FinishOK: 48/48
+
+Time: 30
+19-12-2025 01:30:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:31:19 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:31:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 01:32:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:32:30 : FinishOK: 48/48
+
+Time: 31
+19-12-2025 01:32:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:33:00 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:33:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:34:08: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:34:28 : FinishOK: 49/49
+
+Time: 32
+19-12-2025 01:34:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:34:59 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:35:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:36:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:36:27 : FinishOK: 50/50
+
+Time: 33
+19-12-2025 01:36:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:36:57 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:37:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:38:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:38:25 : FinishOK: 51/51
+
+Time: 34
+19-12-2025 01:38:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:38:55 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:39:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:40:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:40:23 : FinishOK: 52/52
+
+Time: 35
+19-12-2025 01:40:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:40:53 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:41:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 01:41:44 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:42:04 : FinishOK: 52/52
+
+Time: 36
+19-12-2025 01:42:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 01:42:34 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:42:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 01:43:25 : Timeout: waitRecieveUpdate
+
+19-12-2025 01:43:45 : FinishOK: 52/52
+
+Time: 37
+19-12-2025 01:43:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:45:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:45:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:47:01: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:47:21 : FinishOK: 54/54
+
+Time: 38
+19-12-2025 01:47:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:48:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:49:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:50:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:50:59 : FinishOK: 56/56
+
+Time: 39
+19-12-2025 01:50:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:52:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:52:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:54:14: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:54:35 : FinishOK: 58/58
+
+Time: 40
+19-12-2025 01:54:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:56:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:56:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 01:57:50: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 01:58:11 : FinishOK: 60/60
+
+Time: 41
+19-12-2025 01:58:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 01:59:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 01:59:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:01:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:01:46 : FinishOK: 62/62
+
+Time: 42
+19-12-2025 02:01:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 02:03:15: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 02:03:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:05:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:05:23 : FinishOK: 64/64
+
+Time: 43
+19-12-2025 02:05:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 02:06:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 02:07:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:08:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:08:58 : FinishOK: 66/66
+
+Time: 44
+19-12-2025 02:08:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 02:10:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 02:10:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:12:18: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:12:38 : FinishOK: 68/68
+
+Time: 45
+19-12-2025 02:12:38 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 02:14:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 02:14:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:15:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:16:13 : FinishOK: 70/70
+
+Time: 46
+19-12-2025 02:16:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:16:44 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:17:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:17:34 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:17:54 : FinishOK: 70/70
+
+Time: 47
+19-12-2025 02:17:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:18:25 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:18:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:19:15 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:19:35 : FinishOK: 70/70
+
+Time: 48
+19-12-2025 02:19:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:20:05 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:20:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:20:56 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:21:16 : FinishOK: 70/70
+
+Time: 49
+19-12-2025 02:21:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:21:46 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:22:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:22:37 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:22:57 : FinishOK: 70/70
+
+Time: 50
+19-12-2025 02:22:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:23:27 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:23:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:24:17 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:24:37 : FinishOK: 70/70
+
+Time: 51
+19-12-2025 02:24:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:25:08 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:25:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:26:58: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:27:18 : FinishOK: 71/71
+
+Time: 52
+19-12-2025 02:27:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:27:49 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:28:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:28:39 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:28:59 : FinishOK: 71/71
+
+Time: 53
+19-12-2025 02:28:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:29:29 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:29:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:30:20 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:30:40 : FinishOK: 71/71
+
+Time: 54
+19-12-2025 02:30:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:31:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:31:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:32:00 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:32:20 : FinishOK: 71/71
+
+Time: 55
+19-12-2025 02:32:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:32:51 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:33:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:33:41 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:34:01 : FinishOK: 71/71
+
+Time: 56
+19-12-2025 02:34:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:34:32 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:34:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:35:23 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:35:43 : FinishOK: 71/71
+
+Time: 57
+19-12-2025 02:35:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:36:13 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:36:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:37:03 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:37:24 : FinishOK: 71/71
+
+Time: 58
+19-12-2025 02:37:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:37:54 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:38:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:38:44 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:39:04 : FinishOK: 71/71
+
+Time: 59
+19-12-2025 02:39:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:39:35 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:39:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:41:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:41:46 : FinishOK: 72/72
+
+Time: 60
+19-12-2025 02:41:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:42:17 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:42:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:43:07 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:43:27 : FinishOK: 72/72
+
+Time: 61
+19-12-2025 02:43:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:43:58 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:44:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:44:48 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:45:09 : FinishOK: 72/72
+
+Time: 62
+19-12-2025 02:45:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:45:39 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:45:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:46:29 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:46:49 : FinishOK: 72/72
+
+Time: 63
+19-12-2025 02:46:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:47:20 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:47:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:48:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:48:30 : FinishOK: 72/72
+
+Time: 64
+19-12-2025 02:48:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:49:01 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:49:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 02:50:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 02:51:11 : FinishOK: 73/73
+
+Time: 65
+19-12-2025 02:51:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:51:41 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:52:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:52:31 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:52:51 : FinishOK: 73/73
+
+Time: 66
+19-12-2025 02:52:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:53:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:53:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:54:12 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:54:32 : FinishOK: 73/73
+
+Time: 67
+19-12-2025 02:54:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:55:02 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:55:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:55:53 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:56:13 : FinishOK: 73/73
+
+Time: 68
+19-12-2025 02:56:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:56:44 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:57:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:57:34 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:57:54 : FinishOK: 73/73
+
+Time: 69
+19-12-2025 02:57:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 02:58:24 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:58:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 02:59:15 : Timeout: waitRecieveUpdate
+
+19-12-2025 02:59:35 : FinishOK: 73/73
+
+Time: 70
+19-12-2025 02:59:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:00:06 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:00:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:00:56 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:01:16 : FinishOK: 73/73
+
+Time: 71
+19-12-2025 03:01:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:01:47 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:02:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:02:37 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:02:57 : FinishOK: 73/73
+
+Time: 72
+19-12-2025 03:02:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:03:28 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:03:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 03:05:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 03:05:37 : FinishOK: 74/74
+
+Time: 73
+19-12-2025 03:05:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:06:07 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:06:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:06:58 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:07:18 : FinishOK: 74/74
+
+Time: 74
+19-12-2025 03:07:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:07:48 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:08:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:08:39 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:08:59 : FinishOK: 74/74
+
+Time: 75
+19-12-2025 03:08:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:09:29 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:09:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:10:19 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:10:39 : FinishOK: 74/74
+
+Time: 76
+19-12-2025 03:10:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:11:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:11:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:12:00 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:12:20 : FinishOK: 74/74
+
+Time: 77
+19-12-2025 03:12:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:12:51 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:13:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:13:41 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:14:01 : FinishOK: 74/74
+
+Time: 78
+19-12-2025 03:14:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:14:31 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:14:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:15:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:15:42 : FinishOK: 74/74
+
+Time: 79
+19-12-2025 03:15:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:16:12 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:16:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:17:03 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:17:23 : FinishOK: 74/74
+
+Time: 80
+19-12-2025 03:17:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:17:53 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:18:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 03:19:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 03:20:02 : FinishOK: 75/75
+
+Time: 81
+19-12-2025 03:20:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:20:32 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:20:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:21:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:21:42 : FinishOK: 75/75
+
+Time: 82
+19-12-2025 03:21:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:22:13 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:22:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:23:03 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:23:23 : FinishOK: 75/75
+
+Time: 83
+19-12-2025 03:23:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:23:53 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:24:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:24:44 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:25:04 : FinishOK: 75/75
+
+Time: 84
+19-12-2025 03:25:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:25:34 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:25:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:26:25 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:26:45 : FinishOK: 75/75
+
+Time: 85
+19-12-2025 03:26:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:27:15 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:27:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:28:05 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:28:26 : FinishOK: 75/75
+
+Time: 86
+19-12-2025 03:28:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:28:56 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:29:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:29:46 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:30:06 : FinishOK: 75/75
+
+Time: 87
+19-12-2025 03:30:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:30:37 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:30:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 03:32:26: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 03:32:46 : FinishOK: 76/76
+
+Time: 88
+19-12-2025 03:32:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:33:17 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:33:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:34:07 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:34:27 : FinishOK: 76/76
+
+Time: 89
+19-12-2025 03:34:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:34:58 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:35:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:35:48 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:36:08 : FinishOK: 76/76
+
+Time: 90
+19-12-2025 03:36:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:36:38 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:36:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:37:29 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:37:49 : FinishOK: 76/76
+
+Time: 91
+19-12-2025 03:37:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:38:19 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:38:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:39:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:39:30 : FinishOK: 76/76
+
+Time: 92
+19-12-2025 03:39:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:40:00 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:40:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:40:50 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:41:10 : FinishOK: 76/76
+
+Time: 93
+19-12-2025 03:41:10 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:41:41 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:42:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:42:31 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:42:51 : FinishOK: 76/76
+
+Time: 94
+19-12-2025 03:42:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:43:21 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:43:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 03:45:11: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 03:45:31 : FinishOK: 77/77
+
+Time: 95
+19-12-2025 03:45:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:46:01 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:46:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:46:52 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:47:12 : FinishOK: 77/77
+
+Time: 96
+19-12-2025 03:47:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:47:42 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:48:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:48:33 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:48:53 : FinishOK: 77/77
+
+Time: 97
+19-12-2025 03:48:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:49:23 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:49:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:50:13 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:50:33 : FinishOK: 77/77
+
+Time: 98
+19-12-2025 03:50:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:51:04 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:51:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:51:54 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:52:14 : FinishOK: 77/77
+
+Time: 99
+19-12-2025 03:52:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:52:45 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:53:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:53:35 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:53:55 : FinishOK: 77/77
+
+Time: 100
+19-12-2025 03:53:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:54:26 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:54:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:55:16 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:55:36 : FinishOK: 77/77
+
+Time: 101
+19-12-2025 03:55:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:56:06 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:56:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 03:56:57 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:57:17 : FinishOK: 77/77
+
+Time: 102
+19-12-2025 03:57:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 03:57:47 : Timeout: waitRecieveUpdate
+
+19-12-2025 03:58:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 03:59:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 03:59:57 : FinishOK: 78/78
+
+Time: 103
+19-12-2025 03:59:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:00:27 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:00:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:01:17 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:01:37 : FinishOK: 78/78
+
+Time: 104
+19-12-2025 04:01:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:02:08 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:02:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:02:58 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:03:19 : FinishOK: 78/78
+
+Time: 105
+19-12-2025 04:03:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:03:49 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:04:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:04:39 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:04:59 : FinishOK: 78/78
+
+Time: 106
+19-12-2025 04:04:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:05:30 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:05:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:06:20 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:06:40 : FinishOK: 78/78
+
+Time: 107
+19-12-2025 04:06:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:07:11 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:07:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:08:01 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:08:21 : FinishOK: 78/78
+
+Time: 108
+19-12-2025 04:08:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:08:52 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:09:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:09:42 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:10:02 : FinishOK: 78/78
+
+Time: 109
+19-12-2025 04:10:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:10:32 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:10:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:11:23 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:11:43 : FinishOK: 78/78
+
+Time: 110
+19-12-2025 04:11:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:12:13 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:12:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:13:04 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:13:24 : FinishOK: 78/78
+
+Time: 111
+19-12-2025 04:13:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:13:54 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:14:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:14:45 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:15:05 : FinishOK: 78/78
+
+Time: 112
+19-12-2025 04:15:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:15:35 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:15:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:16:26 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:16:46 : FinishOK: 78/78
+
+Time: 113
+19-12-2025 04:16:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:17:16 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:17:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:18:07 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:18:27 : FinishOK: 78/78
+
+Time: 114
+19-12-2025 04:18:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:18:57 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:19:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:19:48 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:20:08 : FinishOK: 78/78
+
+Time: 115
+19-12-2025 04:20:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:20:38 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:20:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:21:29 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:21:49 : FinishOK: 78/78
+
+Time: 116
+19-12-2025 04:21:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:23:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:23:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:25:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:25:23 : FinishOK: 80/80
+
+Time: 117
+19-12-2025 04:25:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:26:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:27:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:28:37: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:28:57 : FinishOK: 82/82
+
+Time: 118
+19-12-2025 04:28:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:30:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:30:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:32:19: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:32:39 : FinishOK: 84/84
+
+Time: 119
+19-12-2025 04:32:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:34:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:34:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:35:56: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:36:16 : FinishOK: 86/86
+
+Time: 120
+19-12-2025 04:36:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:37:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:38:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:39:29: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:39:49 : FinishOK: 88/88
+
+Time: 121
+19-12-2025 04:39:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:41:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:41:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:43:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:43:24 : FinishOK: 90/90
+
+Time: 122
+19-12-2025 04:43:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:45:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:45:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:47:04: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:47:24 : FinishOK: 92/92
+
+Time: 123
+19-12-2025 04:47:24 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:48:52: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:49:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:50:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:50:59 : FinishOK: 94/94
+
+Time: 124
+19-12-2025 04:50:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:52:28: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:52:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:54:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:54:37 : FinishOK: 96/96
+
+Time: 125
+19-12-2025 04:54:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 04:56:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 04:56:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 04:57:53: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 04:58:13 : FinishOK: 98/98
+
+Time: 126
+19-12-2025 04:58:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 04:58:44 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:59:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 04:59:34 : Timeout: waitRecieveUpdate
+
+19-12-2025 04:59:54 : FinishOK: 98/98
+
+Time: 127
+19-12-2025 04:59:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:00:24 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:00:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:01:15 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:01:35 : FinishOK: 98/98
+
+Time: 128
+19-12-2025 05:01:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:02:05 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:02:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:02:55 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:03:15 : FinishOK: 98/98
+
+Time: 129
+19-12-2025 05:03:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:03:46 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:04:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:04:36 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:04:56 : FinishOK: 98/98
+
+Time: 130
+19-12-2025 05:04:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:05:26 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:05:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:06:17 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:06:37 : FinishOK: 98/98
+
+Time: 131
+19-12-2025 05:06:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:07:07 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:07:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:07:57 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:08:17 : FinishOK: 98/98
+
+Time: 132
+19-12-2025 05:08:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:08:48 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:09:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 05:10:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 05:10:59 : FinishOK: 99/99
+
+Time: 133
+19-12-2025 05:10:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:11:29 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:11:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:12:20 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:12:40 : FinishOK: 99/99
+
+Time: 134
+19-12-2025 05:12:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:13:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:13:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:14:00 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:14:20 : FinishOK: 99/99
+
+Time: 135
+19-12-2025 05:14:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:14:51 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:15:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:15:41 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:16:01 : FinishOK: 99/99
+
+Time: 136
+19-12-2025 05:16:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:16:31 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:16:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:17:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:17:42 : FinishOK: 99/99
+
+Time: 137
+19-12-2025 05:17:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:18:12 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:18:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:19:02 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:19:22 : FinishOK: 99/99
+
+Time: 138
+19-12-2025 05:19:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:19:53 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:20:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:20:43 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:21:03 : FinishOK: 99/99
+
+Time: 139
+19-12-2025 05:21:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:21:33 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:21:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:22:24 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:22:44 : FinishOK: 99/99
+
+Time: 140
+19-12-2025 05:22:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:23:14 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:23:34 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 05:25:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 05:25:25 : FinishOK: 100/100
+
+Time: 141
+19-12-2025 05:25:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:25:55 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:26:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:26:46 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:27:06 : FinishOK: 100/100
+
+Time: 142
+19-12-2025 05:27:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:27:37 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:27:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:28:27 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:28:47 : FinishOK: 100/100
+
+Time: 143
+19-12-2025 05:28:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:29:17 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:29:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:30:08 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:30:28 : FinishOK: 100/100
+
+Time: 144
+19-12-2025 05:30:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:30:58 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:31:18 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:31:49 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:32:09 : FinishOK: 100/100
+
+Time: 145
+19-12-2025 05:32:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:32:39 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:32:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:33:29 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:33:49 : FinishOK: 100/100
+
+Time: 146
+19-12-2025 05:33:49 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:34:20 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:34:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:35:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:35:30 : FinishOK: 100/100
+
+Time: 147
+19-12-2025 05:35:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:36:00 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:36:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:36:51 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:37:11 : FinishOK: 100/100
+
+Time: 148
+19-12-2025 05:37:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:37:41 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:38:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 05:39:31: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 05:39:51 : FinishOK: 101/101
+
+Time: 149
+19-12-2025 05:39:51 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:40:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:40:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:41:12 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:41:32 : FinishOK: 101/101
+
+Time: 150
+19-12-2025 05:41:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:42:02 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:42:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:42:53 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:43:13 : FinishOK: 101/101
+
+Time: 151
+19-12-2025 05:43:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:43:43 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:44:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:44:33 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:44:53 : FinishOK: 101/101
+
+Time: 152
+19-12-2025 05:44:53 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:45:24 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:45:44 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:46:14 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:46:34 : FinishOK: 101/101
+
+Time: 153
+19-12-2025 05:46:34 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:47:05 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:47:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:47:55 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:48:15 : FinishOK: 101/101
+
+Time: 154
+19-12-2025 05:48:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:48:45 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:49:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:49:36 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:49:56 : FinishOK: 101/101
+
+Time: 155
+19-12-2025 05:49:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:50:26 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:50:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:51:16 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:51:36 : FinishOK: 101/101
+
+Time: 156
+19-12-2025 05:51:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:52:07 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:52:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 05:53:58: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 05:54:19 : FinishOK: 102/102
+
+Time: 157
+19-12-2025 05:54:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:54:49 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:55:09 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:55:39 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:55:59 : FinishOK: 102/102
+
+Time: 158
+19-12-2025 05:55:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:56:30 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:56:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:57:20 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:57:40 : FinishOK: 102/102
+
+Time: 159
+19-12-2025 05:57:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:58:10 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:58:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 05:59:01 : Timeout: waitRecieveUpdate
+
+19-12-2025 05:59:21 : FinishOK: 102/102
+
+Time: 160
+19-12-2025 05:59:21 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 05:59:52 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:00:12 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:00:42 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:01:02 : FinishOK: 102/102
+
+Time: 161
+19-12-2025 06:01:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:01:32 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:01:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:02:23 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:02:43 : FinishOK: 102/102
+
+Time: 162
+19-12-2025 06:02:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:03:13 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:03:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:05:03: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:05:23 : FinishOK: 103/103
+
+Time: 163
+19-12-2025 06:05:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:05:54 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:06:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:06:45 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:07:05 : FinishOK: 103/103
+
+Time: 164
+19-12-2025 06:07:05 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:07:35 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:07:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:08:25 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:08:46 : FinishOK: 103/103
+
+Time: 165
+19-12-2025 06:08:46 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:09:16 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:09:36 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:10:07 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:10:27 : FinishOK: 103/103
+
+Time: 166
+19-12-2025 06:10:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:10:57 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:11:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:11:47 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:12:07 : FinishOK: 103/103
+
+Time: 167
+19-12-2025 06:12:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:12:38 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:12:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:13:28 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:13:48 : FinishOK: 103/103
+
+Time: 168
+19-12-2025 06:13:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:14:19 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:14:39 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:15:09 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:15:30 : FinishOK: 103/103
+
+Time: 169
+19-12-2025 06:15:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:16:00 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:16:20 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:16:51 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:17:11 : FinishOK: 103/103
+
+Time: 170
+19-12-2025 06:17:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:17:41 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:18:01 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:18:32 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:18:52 : FinishOK: 103/103
+
+Time: 171
+19-12-2025 06:18:52 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:19:22 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:19:42 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:20:13 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:20:33 : FinishOK: 103/103
+
+Time: 172
+19-12-2025 06:20:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:21:03 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:21:23 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:21:53 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:22:13 : FinishOK: 103/103
+
+Time: 173
+19-12-2025 06:22:13 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:22:44 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:23:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:23:34 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:23:55 : FinishOK: 103/103
+
+Time: 174
+19-12-2025 06:23:55 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:24:25 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:24:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:25:15 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:25:35 : FinishOK: 103/103
+
+Time: 175
+19-12-2025 06:25:35 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:26:06 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:26:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:26:56 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:27:16 : FinishOK: 103/103
+
+Time: 176
+19-12-2025 06:27:16 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:27:46 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:28:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:28:37 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:28:57 : FinishOK: 103/103
+
+Time: 177
+19-12-2025 06:28:57 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:29:27 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:29:47 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:30:18 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:30:38 : FinishOK: 103/103
+
+Time: 178
+19-12-2025 06:30:38 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+19-12-2025 06:31:08 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:31:28 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+19-12-2025 06:31:58 : Timeout: waitRecieveUpdate
+
+19-12-2025 06:32:19 : FinishOK: 103/103
+
+Time: 179
+19-12-2025 06:32:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:33:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:34:08 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:35:36: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:35:56 : FinishOK: 105/105
+
+Time: 180
+19-12-2025 06:35:56 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:37:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:37:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:39:12: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:39:32 : FinishOK: 107/107
+
+Time: 181
+19-12-2025 06:39:32 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:40:59: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:41:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:42:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:43:07 : FinishOK: 109/109
+
+Time: 182
+19-12-2025 06:43:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:44:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:44:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:46:21: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:46:41 : FinishOK: 111/111
+
+Time: 183
+19-12-2025 06:46:41 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:48:11: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:48:31 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:49:59: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:50:19 : FinishOK: 113/113
+
+Time: 184
+19-12-2025 06:50:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:51:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:52:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:53:38: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:53:58 : FinishOK: 115/115
+
+Time: 185
+19-12-2025 06:53:58 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:55:25: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:55:45 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 06:57:13: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 06:57:33 : FinishOK: 117/117
+
+Time: 186
+19-12-2025 06:57:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 06:58:59: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 06:59:19 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:00:47: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:01:07 : FinishOK: 119/119
+
+Time: 187
+19-12-2025 07:01:07 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:02:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:02:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:04:22: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:04:43 : FinishOK: 121/121
+
+Time: 188
+19-12-2025 07:04:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:06:10: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:06:30 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:07:57: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:08:17 : FinishOK: 123/123
+
+Time: 189
+19-12-2025 07:08:17 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:09:45: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:10:06 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:11:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:11:54 : FinishOK: 125/125
+
+Time: 190
+19-12-2025 07:11:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:13:20: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:13:40 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:15:07: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:15:27 : FinishOK: 127/127
+
+Time: 191
+19-12-2025 07:15:27 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:16:55: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:17:15 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:18:42: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:19:02 : FinishOK: 129/129
+
+Time: 192
+19-12-2025 07:19:02 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:20:30: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:20:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:22:18: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:22:38 : FinishOK: 131/131
+
+Time: 193
+19-12-2025 07:22:38 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:24:06: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:24:26 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:25:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:26:14 : FinishOK: 133/133
+
+Time: 194
+19-12-2025 07:26:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:27:43: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:28:03 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:29:29: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:29:50 : FinishOK: 135/135
+
+Time: 195
+19-12-2025 07:29:50 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:31:17: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:31:37 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:33:05: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:33:25 : FinishOK: 137/137
+
+Time: 196
+19-12-2025 07:33:25 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:34:54: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:35:14 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:36:44: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:37:04 : FinishOK: 139/139
+
+Time: 197
+19-12-2025 07:37:04 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:38:34: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:38:54 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:40:23: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:40:43 : FinishOK: 141/141
+
+Time: 198
+19-12-2025 07:40:43 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:42:13: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:42:33 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:44:02: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:44:22 : FinishOK: 143/143
+
+Time: 199
+19-12-2025 07:44:22 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:45:51: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:46:11 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:47:39: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:47:59 : FinishOK: 145/145
+
+Time: 200
+19-12-2025 07:47:59 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13 ; ExpectVersion: FW3.1.13
+19-12-2025 07:49:28: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13 sucessfully.
+
+19-12-2025 07:49:48 : {"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.1.13Test#1"}
+Verion: NA-BL2.1-OA2.6.3-FW3.1.13Test ; ExpectVersion: FW3.1.13Test
+19-12-2025 07:51:16: UPDATE version main: NA-BL2.1-OA2.6.3-FW3.1.13Test sucessfully.
+
+19-12-2025 07:51:36 : FinishOK: 147/147

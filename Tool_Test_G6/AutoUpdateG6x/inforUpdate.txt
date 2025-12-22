@@ -1,4 +1,0 @@
-{"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.0.17#COMM"}
-FW3.0.17
-{"commands":1,"payload0":"g6x#g6x@123#222.252.14.147:21#FW3.0.18#COMM"}
-FW3.0.18

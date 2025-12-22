@@ -1,0 +1,1 @@
+conn_db=data source=222.252.14.147,3055;database=GSGW;user id=sa;password=gelex@123
