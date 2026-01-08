@@ -1,0 +1,59 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+COM6
+COM5
+9600
+2
+0
+4
+0
+0
+
+COMMDISPLAY
+0
+
+VERSATAP
+0
+
+CHANNELALIAS
+
+
+
+SEND
+0
+write number of resets
+01 57 31 02 31 2E 30 2E 39 28 30 29 03 6E
+0
+5
+
+SEND
+1
+write number of hangs
+01 57 31 02 31 2E 30 2E 41 28 30 29 03 16
+0
+5
+
+SEND
+2
+read number of resets
+01 52 31 02 31 2E 30 2E 43 28 29 03 21
+0
+5
+
+SEND
+3
+read number of hangs
+01 52 31 02 31 2E 30 2E 44 28 29 03 26
+0
+5
+
+SEND
+4
+On log
+4F 6E 4C 6F 67
+0
+5
+
